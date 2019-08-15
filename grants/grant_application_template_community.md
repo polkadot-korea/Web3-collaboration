@@ -1,18 +1,17 @@
-# Project name
+# Polkadot Korea
 
 ## Project Description
-If this application in response to an RFP then please indicate this on the first line of this section.
-
-Please provide the following:
   * A brief description of the project.
+     Polkadot community of the people, by the people, for the people in Korea
   * An indication of why this project is good for the ecosystem.
   * An indication of how this project is related to Substrate and/or Polkadot.
   * An indication of why your team is interested in creating this project.
 
 ## Team members
 * Name of team leader
+Ahn Gyu Tae
 * Names of team members	
-
+Hyungsuk Kang
 ## Team Website	
 * https://...
 
